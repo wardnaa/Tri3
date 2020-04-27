@@ -18,8 +18,7 @@ Internet Quota From Service Provider 3/Tri  </p>
 
 ### About
 ```
-
-This Script Use Api Data From  : http://bonstri.tri.co.id
+I made this tool because I was very bored during quarantine
 
 1. apche2 server
 2. php
@@ -52,6 +51,12 @@ note : You must use the mysql database server because this tool uses a database 
   $ import bonstri.sql to your mysql database
   $ open browser and go to http://localhost/Tri3
 
+```
+### Features:
+```
+$ Get A Lot of Free Internet Quota using bug from http://bonstri.tri.co.id
+$ Get ipadders when open the webpage and insert the ipaddress to tb_ipaddr
+note : Maybe you can use this tool to track someone's location for your needs by using the ip address LOL :v
 ```
 
 Note : BUG FIXED
