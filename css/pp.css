@@ -1,0 +1,17 @@
+.myimg {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+button {
+    background-color: transparent;
+    color: black;
+    border: none;
+}
+
+button:active {
+    background-color: #008cba;
+    color: white;
+}
