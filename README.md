@@ -45,7 +45,7 @@ note : You must use the mysql database server because this tool uses a database 
   note : You can use xampp to make it easier and simpler to run this tool
   $ start apache2 
   $ start mysql server
-  $ copy bonstri folder yourinstallerfile/xampp/htdocs/
+  $ copy Tri3 folder yourinstallerfile/xampp/htdocs/
   $ edit file Bonstri.php
   
   # Running
