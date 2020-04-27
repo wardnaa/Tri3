@@ -20,7 +20,7 @@ Internet Quota From Service Provider 3/Tri  </p>
 ```
 I made this tool because I was very bored during quarantine
 
-1. apche2 server
+1. apache2 webserver
 2. php
 4. bootstrap
 5. mysql databases
@@ -31,8 +31,7 @@ note : You must use the mysql database server because this tool uses a database 
 ### Download and Config:
 ```bash
   # Download
-  $ git https://github.com/wardnaa/Bonstri
-  $ cd Bonstri
+  $ git clone https://github.com/wardnaa/Tri3
     
   # Requirments
   $ sudo apt-get install mysql-server
