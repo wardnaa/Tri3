@@ -54,4 +54,5 @@ note : You must use the mysql database server because this tool uses a database 
 
 ```
 
+Note : BUG FIXED
 - This is a life [About Me](https://www.instagram.com/wardnaa.a)
