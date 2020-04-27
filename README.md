@@ -45,12 +45,12 @@ note : You must use the mysql database server because this tool uses a database 
   note : You can use xampp to make it easier and simpler to run this tool
   $ start apache2 
   $ start mysql server
-  $ copy Tri3 folder yourinstallerfile/xampp/htdocs/
+  $ copy Tri3 folder to yourinstallerfile/xampp/htdocs/
   $ edit file Bonstri.php
   
   # Running
   $ import bonstri.sql to your mysql database
-  $ open browser and go to http://localhost/binstri
+  $ open browser and go to http://localhost/Tri3
 
 ```
 
