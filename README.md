@@ -25,7 +25,7 @@ I made this tool because I was very bored during quarantine
 4. bootstrap
 5. mysql databases
 
-note : You must use the mysql database server because this tool uses a database to working
+note : You must use the mysql database server because this tool uses a database to working!
 ```
 
 ### Download and Config:
@@ -40,7 +40,7 @@ note : You must use the mysql database server because this tool uses a database 
   $ sudo apt-get install php-mysql
   
   # Minimalist
-  note : You can use xampp to make it easier and simpler to run this tool
+  note : You can also use xampp to make it easier and simpler to run this tool
   $ start apache2 
   $ start mysql server
   $ copy Tri3 folder to yourinstallerfile/xampp/htdocs/
@@ -54,7 +54,7 @@ note : You must use the mysql database server because this tool uses a database 
 ### Features:
 ```
 $ Get A Lot of Free Internet Quota using bug from http://bonstri.tri.co.id
-$ Get ipadders when open the webpage and insert the ipaddress to tb_ipaddr
+$ Get ip adders when open the webpage and insert the ip address to tb_ipaddr
 note : Maybe you can use this tool to track someone's location for your needs by using the ip address LOL :v
 ```
 
